@@ -1,5 +1,4 @@
-![](https://github.com/Ivan-Meng0115/Ivan-Meng-Bio/blob/main/pasos-business-intelligence-plan-negocios-mineria-datos-analisis-estrategia_35632-173.jpg)
-
+![](https://github.com/Ivan-Meng0115/Ivan-Meng0115/blob/main/pasos-business-intelligence-plan-negocios-mineria-datos-analisis-estrategia_35632-173.jpg)
 - #### 👋  Hi, I’m Ivan Meng, an undergraduate student in the Red McCombs School of Business at the University of Texas at Austin majoring in Management Information Systems (MIS) and minoring in Scientific Computation and Data Analytics.
 
 - #### 👀  I’m interested in bridging the gap between technology and business and currently looking for Data Analyst, Business Intelligence, and Consulting internships and jobs.

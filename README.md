@@ -5,6 +5,9 @@
 
 - #### 👨🏻‍💻  I have experience using SQL, R, Python, and Tableau to work on several data related projects and assignments such as predictive models for forecasting, customer clustering for marketing strategies. 
 
+- #### 👨🏻‍💻 I have been working full-time at Texas Instrument on the Corporate Audit team to Built transaction risk detection model using machine learning (ML) with Python, reducing audit process from 16 to 2 days. In the current semester, I worked as a consultant of The Global Sustainability Leadership Institute to produce a most value-added sustainability report (ESG) for Houston-based USD Group LLC.
+
+
 - #### 🏓  Outside school, I am a professional table tennis player and a private coach.  I have won multiple national and international championships in the US and China, and represented UT Austin attending the US Collegiate Table Tennis tournaments with my UT Austin team members.  I also trained 4 young players in TX to win several national titles of their age groups.
 
 - #### 📫 Please feel free to contact me at mengzixiang0115@gmail.com.

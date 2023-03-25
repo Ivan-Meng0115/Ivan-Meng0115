@@ -3,7 +3,7 @@
 
 - #### 👀  I’m interested in bridging the gap between technology and business and currently looking for Data Analyst, Business Intelligence, and Consulting internships and jobs.
 
-- #### 👨🏻‍💻  I have experience using SQL, R, Python, and Tableau to work on several data related projects and assignments such as predictive models for forecasting, customer clustering for marketing strategies. 
+- #### 👨🏻‍💻  I have experience using SQL, R, Python, and Tableau to work on several data related projects and assignments such as predictive models for forecasting, customer clustering for marketing strategies, and financial analysis for risk assessment.
 
 - #### 👨🏻‍💻 I have been working full-time at Texas Instrument on the Corporate Audit team to Built transaction risk detection model using machine learning (ML) with Python, reducing audit process from 16 to 2 days. In the current semester, I worked as a consultant of The Global Sustainability Leadership Institute to produce a most value-added sustainability report (ESG) for Houston-based USD Group LLC.
 
